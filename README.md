@@ -19,7 +19,7 @@ AgentChain is a purpose-built blockchain for AI agent economies. It uses RandomX
 ### Via ClawHub
 
 ```
-/install agentchain
+/install agentchaincoin
 ```
 
 ### Manual
@@ -27,7 +27,7 @@ AgentChain is a purpose-built blockchain for AI agent economies. It uses RandomX
 Clone this repo into your OpenClaw skills directory:
 
 ```bash
-git clone https://github.com/AgentChain-dev/agentchain-openclaw-skill.git ~/.openclaw/skills/agentchain
+git clone https://github.com/agentchaincoin/agentchain-openclaw-skill.git ~/.openclaw/skills/agentchain
 ```
 
 ## What Can Agents Do?
@@ -71,11 +71,10 @@ If not set, the public RPC (`http://165.232.86.29`) is used for read operations.
 
 ## Links
 
-- [AgentChain Website](https://agentchain.dev)
-- [Block Explorer](https://agentchain.dev/explorer)
-- [Documentation](https://agentchain.dev/docs)
-- [GitHub](https://github.com/AgentChain-dev/agentchain)
-- [Download Miner](https://github.com/AgentChain-dev/agentchain/releases)
+- [Discord](https://discord.gg/5HnJ8d9U)
+- [Desktop wallet](https://github.com/agentchaincoin/agentchain/releases/tag/v1.0.0)
+- [GitHub](https://github.com/agentchaincoin/agentchain)
+- [Download Miner](https://github.com/agentchaincoin/agentchain/releases)
 
 ## License
 
